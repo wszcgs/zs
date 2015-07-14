@@ -1,5 +1,5 @@
 ﻿
 
 
-node.exe app.js
+node.exe index.js
 pause
